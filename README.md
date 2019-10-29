@@ -2,7 +2,7 @@
 
 <h4>A modern gesture handler for laptops and PC done with Arduino and Ultra Sonic Sensor</h4>
 
-<img src="img.jpg" width=800 height=500/>
+<img src="img.jpg" width=400 height=250/>
 
 <p>This sensor can detect the distance of the obstacle.<br> Making use of this sensor we can define different gestures which can further be converted into mathematical equations, then send it to the computer to do specific tasks</p>
 
